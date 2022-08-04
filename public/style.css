@@ -31,3 +31,12 @@ input[type="text"],[type="email"]{
     color:black;
     opacity: 0.9; 
 }
+.my-button{
+    width:20vw;
+    }
+@media screen and (max-width: 400px)
+{
+.my-button{
+width:147px;
+}
+}
